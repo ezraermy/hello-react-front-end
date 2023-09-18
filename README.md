@@ -26,6 +26,9 @@
 
 **Hello Rails Frontend** Create a React front-end with a Rails back-end and connect them to display a random message.
 
+## Link to the Back-end
+- [Hello Rails Backend](https://github.com/ezraermy/hello-rails-back-end/tree/backend)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
