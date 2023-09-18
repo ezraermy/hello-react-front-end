@@ -1,6 +1,7 @@
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { fetchMessage } from '../redux/features/greetingSlice';
+import '../css/Greeting.css';
 
 function Greeting() {
   const { message } = useSelector((state) => state.greeting);
