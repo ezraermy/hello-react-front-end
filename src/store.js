@@ -1,8 +1,13 @@
-// src/store.js
-import { createStore, applyMiddleware } from 'redux';
+import { configureStore } from '@reduxjs/toolkit';
+import greetingReducer from './greetingReducer';
 import thunk from 'redux-thunk';
-import rootReducer from './greetingReducer';
 
-const store = createStore(rootReducer, applyMiddleware(thunk));
+const store = configureStore({
+  reducer: {
+    greeting: greetingReducer,
+  },
+  middleware: (getDefaultMiddleware) =>
+    getDefaultMiddleware().concat(thunk), 
+});
 
 export default store;
