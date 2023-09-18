@@ -24,7 +24,7 @@
 
 # 📖 Hello Rails Frontend <a name="about-project"></a>
 
-**Cookpad** Create a React front-end with a Rails back-end and connect them to display a random message.
+**Hello Rails Frontend** Create a React front-end with a Rails back-end and connect them to display a random message.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -61,17 +61,6 @@
 - **Beautifull UI**
 - **Easy To Use**
 
-<p align="right"><a href="#readme-top">👆</a></p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Cookpad](https://sensational-sunflower-32ca15.netlify.app/)
-
-## 🚀 Video <a name="video"></a>
-
-- [Presenation](https://www.loom.com/share/f22ffd04ae5c42bd93a98f78eeacd3c8)
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
@@ -173,9 +162,7 @@ If you like this project leave a start for it.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank Microverse for helping me in my journey to become a Fullstack developer 🌹
-
-- I would like to give credit to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for his original design idea that inspired the creation of this app. The overall layout and design of this app were heavily influenced by his work, and I am grateful for the inspiration he provided.
+- I would like to thank Microverse for helping me in my journey to become a Fullstack developer 
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
